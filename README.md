@@ -1,2 +1,3 @@
 # HTML
-Basics to Advance
+Here I am gonna learn HTML from Basics.
+HTML stands for Hyper Text Markup Language.
